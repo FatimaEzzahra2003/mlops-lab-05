@@ -1,0 +1,6 @@
+venv_mlops/
+_pycache_/
+*.pyc
+logs/
+models/
+/models
